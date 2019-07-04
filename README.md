@@ -6,4 +6,4 @@
 
 Supongamos que queremos redirigir a la interfaz de registro, nuestra ruta debería ser la siguiente:
 
-<a href="index.php?url=registro">Registrarme</a>
+<a href="index.php?url=registro">Registrarme</aa> 
